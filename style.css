@@ -1,0 +1,41 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Prompt', sans-serif;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.donate-now {
+    color: wheat;
+    text-align: center;
+    background-image: url(images/cover-photo.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 800px;
+}
+
+.donate-button {
+    color: rgb(169, 27, 27);
+}
+
+.donate {
+    color: white;
+    background-color: rgb(212, 136, 43);
+}
+
+.donate-today {
+    text-align: center;
+}
+
+.money-amount {
+    float: left;
+    text-align: center;
+    width: 250px;
+    border: 2px solid skyblue;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#other {
+    margin-top: 30px;
+
+}
