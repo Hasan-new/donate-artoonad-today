@@ -37,5 +37,47 @@ body {
 
 #other {
     margin-top: 30px;
+}
 
+.donate-confirm {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background-color: burlywood;
+    font-size: 30px;
+}
+
+.donate-plan {
+    text-align: center;
+    /* font-size: 30px; */
+}
+
+.our-donate {
+    font-size: 50px;
+}
+
+.plan {
+    float: left;
+    width: 32%;
+    background-color: lightsalmon;
+    margin: 10px 10px 40px 10px;
+}
+
+.get-updates {
+    text-align: center;
+}
+
+.form-inline {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+    background-color: darkseagreen;
+    height: 400px;
+}
+
+footer h1 {
+    padding-top: 200px;
 }
